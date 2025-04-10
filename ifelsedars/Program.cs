@@ -13,6 +13,8 @@
         int raqam = (int)raqam1;
 
         Console.WriteLine ( raqam );
+        Console.WriteLine ( raqam );
+        Console.WriteLine ( raqam );
 
 
 
