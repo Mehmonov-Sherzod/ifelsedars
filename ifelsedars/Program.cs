@@ -7,10 +7,12 @@
     public static void  Main(string[] args)
     {
 
-        int raqam1 =Convert.ToInt32 (Console .ReadLine());
+        double raqam1 =Convert.ToInt32 (Console .ReadLine());
 
 
-        double raqam = raqam1;
+        int raqam = (int)raqam1;
+
+        Console.WriteLine ( raqam );
 
 
 
